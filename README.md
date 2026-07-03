@@ -1,2 +1,2 @@
 # Blog.pag1
-Primeiro article do site Blog.corte
+Primeiro blog do Blog.Cortes.
